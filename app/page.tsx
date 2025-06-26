@@ -16,7 +16,7 @@ export default function SimproAssistant() {
   const [activeTab, setActiveTab] = useState("instructivo")
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-200">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 lg:py-8">
         {/* Header - Responsive */}
         <div className="text-center mb-8">
