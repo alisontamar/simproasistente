@@ -610,15 +610,15 @@ export default function CalculadoraDecisiones() {
                   <h4 className="font-semibold mb-3">Línea 1 - Productos Intermedios</h4>
                   <div className="space-y-2">
                     <div className="flex justify-between">
-                      <span>X' (Xsara):</span>
+                      <span>X' (X):</span>
                       <Badge variant="outline">{resultados.produccionLinea1.X} unidades</Badge>
                     </div>
                     <div className="flex justify-between">
-                      <span>Y' (Yaris):</span>
+                      <span>Y' (Y):</span>
                       <Badge variant="outline">{resultados.produccionLinea1.Y} unidades</Badge>
                     </div>
                     <div className="flex justify-between">
-                      <span>Z' (Zafira):</span>
+                      <span>Z' (Z):</span>
                       <Badge variant="outline">{resultados.produccionLinea1.Z} unidades</Badge>
                     </div>
                   </div>
@@ -628,15 +628,15 @@ export default function CalculadoraDecisiones() {
                   <h4 className="font-semibold mb-3">Línea 2 - Productos Finales</h4>
                   <div className="space-y-2">
                     <div className="flex justify-between">
-                      <span>X (Xsara):</span>
+                      <span>X (X):</span>
                       <Badge variant="outline">{resultados.produccionLinea2.X} unidades</Badge>
                     </div>
                     <div className="flex justify-between">
-                      <span>Y (Yaris):</span>
+                      <span>Y (Y):</span>
                       <Badge variant="outline">{resultados.produccionLinea2.Y} unidades</Badge>
                     </div>
                     <div className="flex justify-between">
-                      <span>Z (Zafira):</span>
+                      <span>Z (Z):</span>
                       <Badge variant="outline">{resultados.produccionLinea2.Z} unidades</Badge>
                     </div>
                   </div>
