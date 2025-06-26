@@ -87,15 +87,15 @@ export default function InstructivoSection() {
               <ul className="space-y-2 text-sm">
                 <li className="flex justify-between">
                   <span>X' (X):</span>
-                  <Badge variant="outline">1 unidad</Badge>
+                  <Badge variant="outline">55 unidades</Badge>
                 </li>
                 <li className="flex justify-between">
                   <span>Y' (Y):</span>
-                  <Badge variant="outline">2 unidades</Badge>
+                  <Badge variant="outline">44 unidades</Badge>
                 </li>
                 <li className="flex justify-between">
                   <span>Z' (Z):</span>
-                  <Badge variant="outline">3 unidades</Badge>
+                  <Badge variant="outline">33 unidades</Badge>
                 </li>
               </ul>
             </div>
