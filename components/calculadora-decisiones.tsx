@@ -601,7 +601,7 @@ export default function CalculadoraDecisiones() {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Factory className="w-5 h-5" />
-                Datos de Producción (Como en SIMPRO)
+                Datos de Producción
               </CardTitle>
             </CardHeader>
             <CardContent>
@@ -670,7 +670,7 @@ export default function CalculadoraDecisiones() {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <DollarSign className="w-5 h-5" />
-                Costos del Período (Como en SIMPRO)
+                Costos del Período 
               </CardTitle>
             </CardHeader>
             <CardContent>
